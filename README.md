@@ -1,6 +1,6 @@
 # appdev
 My first repository
 **Favorite movie:** 
-**The Rain Of España
-*Chasing in the wild
-*Safe Skies Archer
+1. **The Rain Of España
+2. *Chasing in the wild
+3. *Safe Skies Archer
